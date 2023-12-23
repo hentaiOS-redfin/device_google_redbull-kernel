@@ -1,0 +1,2 @@
+KERNEL_BINARY=vmlinux
+MODULES_ARCHIVE=unstripped_modules.tar.gz
